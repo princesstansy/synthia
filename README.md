@@ -1,4 +1,4 @@
-# synthia
+# Synthia
 Synthia is a web application that leverages the power of OpenAI API to produce text input based on user input. From providing assistance in writing any kind of content(term papers, social media posts, blogs etc) to crafting custom schedules and iteraries as well as getting code help, synthia is here to assist. 
 
 # Key features
