@@ -11,3 +11,19 @@ Synthia is a web application that leverages the power of OpenAI API to produce t
    Synthia offers customization options such as adjusting temperature and setting word limits to tailor the generated text.
 4. Save and Export:
    Synthia allows users to save and export the generated text in various formats for further editing or project integration.
+
+# Tech Stack
+Front-end 
+HTML 
+CSS
+JavaScript
+Vite
+
+Back-end
+Node JS 
+Express
+
+API Used
+OpenAI API
+
+
