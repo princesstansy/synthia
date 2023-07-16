@@ -1,7 +1,7 @@
 # Synthia
 Synthia is a web application that leverages the power of OpenAI API to produce text input based on user input. From providing assistance in writing any kind of content(term papers, social media posts, blogs etc) to crafting custom schedules and iteraries as well as getting code help, synthia is here to assist. 
 
-# Key features
+## Key features
 
 1. Text Generation:
     Synthia leverages the OpenAI API to generate creative and engaging text based on user input.
@@ -12,7 +12,7 @@ Synthia is a web application that leverages the power of OpenAI API to produce t
 4. Save and Export:
    Synthia allows users to save and export the generated text in various formats for further editing or project integration.
 
-# Tech Stack
+## Tech Stack
 Front-end
 > HTML
 > CSS
@@ -29,7 +29,7 @@ API Used
 > OpenAI API
 
 
-#Deployment 
+## Deployment 
 Check out the deployed version here:
 https://synthia-7be5.vercel.app
 
