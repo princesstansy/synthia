@@ -29,3 +29,8 @@ API Used
 > OpenAI API
 
 
+#Deployment 
+Check out the deployed version here:
+https://synthia-7be5.vercel.app
+
+
